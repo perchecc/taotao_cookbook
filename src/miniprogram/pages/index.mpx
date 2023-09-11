@@ -1,0 +1,24 @@
+<template>
+  <view>
+    hello Mpx
+  </view>
+</template>
+
+<script>
+  import { createPage } from '@mpxjs/core'
+
+  createPage({
+    onLoad() {
+      //
+    }
+  })
+</script>
+
+<style>
+</style>
+
+<script type="application/json">
+  {
+    "usingComponents": {}
+  }
+</script>
